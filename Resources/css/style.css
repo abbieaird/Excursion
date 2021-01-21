@@ -15,17 +15,17 @@ a {
     font-size: 16px;
 }
 
-.guide {
+h2 {
     font-weight: 300;
     font-size: 42px;
 }
 
-.memory {
+p {
     font-size: 21px;
     color: gray;
 }
 
-.copyright {
+footer {
     text-align: right;
     color: gray;
 }
